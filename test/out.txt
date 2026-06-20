@@ -1,0 +1,11 @@
+buzz
+fizz
+22
+23
+fizz
+buzz
+26
+fizz
+28
+29
+fizzBuzz
